@@ -18,6 +18,7 @@ The dashboard was built using **Microsoft Power BI** and includes:
 ## 📂 File Included
 
 - `Data_Jobs_Dashboard.pbix` – Power BI report file
+- README.md 
 
 ---
 
