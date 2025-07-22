@@ -25,8 +25,7 @@ The dashboard was built using **Microsoft Power BI** and includes:
 ## 🛠 Tools Used
 
 - Microsoft Power BI Desktop  
-- Power Query Editor (ETL)  
-- DAX for calculations and KPIs  
+   
 
 ---
 
